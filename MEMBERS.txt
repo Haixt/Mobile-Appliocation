@@ -1,0 +1,3 @@
+Members and Contribution: 
+Daniel Carredo: Add Student, Display All Students and Delete Function
+Richard Lee: Edit, Display Sections, Search
